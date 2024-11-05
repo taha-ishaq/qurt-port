@@ -33,7 +33,7 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Dtek Internship in Graphics Designing</li>
+        <li>WapExp Learning + Internship in Graphics Designing</li>
         <li>Dtek Job Certificate in Graphics Designing</li>
       </ul>
     ),
